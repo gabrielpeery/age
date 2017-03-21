@@ -1,0 +1,28 @@
+{
+  "name": "age",
+  "version": "0.0.1",
+  "description": "another game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielpeery/age.git"
+  },
+  "keywords": [
+    "game",
+    "engine"
+  ],
+  "author": "Gabriel Peery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielpeery/age/issues"
+  },
+  "homepage": "https://github.com/gabrielpeery/age#readme",
+  "window": {
+    "toolbar": false,
+    "width": 1366,
+    "height": 768
+  }
+}
